@@ -4,11 +4,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-Pings COWIN.org sevrers and returns available slots
+Pings COWIN.org apis and returns available slots
 
 ps: it works (for now)
 
 Not much reliable ... scripted in 5 min (HELP)
+
 
 ## Installation
 
